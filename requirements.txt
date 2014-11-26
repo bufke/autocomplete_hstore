@@ -1,0 +1,4 @@
+django
+django-hstore
+django-autocomplete-light
+psycopg2
